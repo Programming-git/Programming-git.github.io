@@ -18,16 +18,12 @@ minimal: false             # use a dark header
 navigation:
   - title: "Resume"
     url:   "/Deng.Kexin.Resume.pdf"
-    icon: "download"      # FontAwesome icon name
   - title: "About Me"
     url:   "/about/"
-    icon: "address-card"
   - title: "Academic Projects"
     url:   "/academic-projects/"
-    icon: "book"
   - title: "Interests"
     url:   "/interests/"
-    icon: "heart"
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
