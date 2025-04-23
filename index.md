@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 
-# Welcome to my personal webpage!
+Welcome to my personal webpage!
 
 ![Profile photo](/img/fac6e8e6a670ad3af9405ca24a6a574a.JPG)
 
