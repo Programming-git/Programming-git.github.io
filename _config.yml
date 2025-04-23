@@ -15,11 +15,12 @@ minimal: false             # use a dark header
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/Deng.Kexin.Resume.pdf",title: Resume, icon = home}
-  - {title: About Me,icon = address-card}
-  - {title: Academic Projects, file: "/academicprojects.md"}
-  - {title: Interests, file: "/interests.md"}
+navigation:
+  - { file: "/Deng.Kexin.Resume.pdf", title: "Resume", icon: home }
+  - { file: "/about.md",             title: "About Me",     icon: address-card }
+  - { file: "/academicprojects.md",   title: "Academic Projects", icon: book }
+  - { file: "/interests.md",          title: "Interests",    icon: heart }
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:kd537@cornell.edu"}
