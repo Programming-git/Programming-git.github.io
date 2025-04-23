@@ -4,13 +4,14 @@ title: Academic Projects
 permalink: /academic-projects/
 ---
 
-<h1 id="project_overview">Academic Project Overview</h1>
+<h1 id="project_overview">Information Visualization</h1>
 
-**Information Visualization**
+2. **Monte Carlo Derivative Pricing**
+
 [![Tableau Visualization](/img/tableau.png)](/img/tableau.png)
+
    - Software: Tableau
-   - Extracted order-flow, momentum, and cancellation-rate features for AAPL, AMZN, GOOG, MSFT, INTC  
-   - Built a Python prototype execution strategy that signals buy/sell market orders
+   - This is the Tableau visualization project for course competition of Information Technology in Business & Society course at NYU Stern. I created a dual‐mode (light & dark) Tableau dashboard to explore Toy Data’s sales performance across regions, states, product lines, suppliers, statuses, and top products. A year‐parameter lets users toggle between years, while custom calculated fields drive color‐coded year-over-year growth, max/min markers, and dynamic rankings. Advanced techniques—dual axes, transparent map overlays, and rich tooltips—make it easy to spot trends and drill into details, delivering an interactive, polished visualization experience.
 - **File:** [Final project Tableau File](/_posts/project pitch tableau - final version.twb)  
 - **Report:** [Implementation report](/_posts/Kexin's Tableau Contest Report.pdf)
 
