@@ -7,7 +7,7 @@ permalink: /academic-projects/
 <h1 id="project_overview">Academic Project Overview</h1>
 
 **Information Visualization**
-[![Tableau Visualization](/img/lob_feature.png)](/img/tableau.png)
+[![Tableau Visualization](/img/tableau.png)](/img/tableau.png)
    - Software: Tableau
    - Extracted order-flow, momentum, and cancellation-rate features for AAPL, AMZN, GOOG, MSFT, INTC  
    - Built a Python prototype execution strategy that signals buy/sell market orders
