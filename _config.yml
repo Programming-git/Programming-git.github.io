@@ -23,7 +23,7 @@ navigation:
     url:   "/about/"
     sidebaricon: "address-card"
   - title: "Academic Projects"
-    url:   "/academic-projects/" # or “/academicprojects.html” if you didn’t give it a permalink
+    url:   "/academicprojects.md/"
     sidebaricon: "book"
   - title: "Interests"
     url:   "/interests/"
