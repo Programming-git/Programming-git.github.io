@@ -6,9 +6,14 @@ permalink: /academic-projects/
 
 <h1 id="project_overview">Academic Project Overview</h1>
 
-1. **LOB Feature Extraction & HFT Prototype**  
+**Information Visualization**
+[![Tableau Visualization](/img/lob_feature.png)](/img/lob_feature.png)
+   - Software: Tableau
    - Extracted order-flow, momentum, and cancellation-rate features for AAPL, AMZN, GOOG, MSFT, INTC  
    - Built a Python prototype execution strategy that signals buy/sell market orders
+- **File:** [Final project Tableau File](/_posts/project pitch tableau - final version.twb)  
+- **Report:** [Implementation report](/_posts/Kexin's Tableau Contest Report.pdf)
+
 
 2. **Monte Carlo Derivative Pricing**  
    - Simulated barrier and Asian options under Black–Scholes and Heston models  
