@@ -10,8 +10,7 @@ permalink: /interests/
 [![Tableau Visualization](/img/chorus2.jpg)](/img/chorus2.jpg)
 
 2.I am proud to be a graduate of NYU Shanghai, China’s first Sino-US research university and the third degree-granting campus of the NYU Global Network.
-[![Tableau Visualization](/img/graduate1.jpeg)](/img/graduate1.jpeg)
-[![Tableau Visualization](/img/graduate2.jpeg)](/img/graduate2.jpeg)
+[![Tableau Visualization](/img/graduate2.JPG)](/img/graduate2.JPG)
 
 3.I love Broadway musicals; out of 13 musicals I watched in my year at NYU, my favorite was Hadestown.
 [![Tableau Visualization](/img/hadestown.jpg)](/img/hadestown.jpg)
@@ -33,13 +32,15 @@ Below are some of our articles.
 
 
 
-8.I travelled since my Undergraduate senior year to Tibet (China), Tiland, Japan, Pueto Rico(US), and just travelled to South America, including Peru, Bolivia and Chile.
+8.I travelled since my Undergraduate senior year to Tibet (China), Tiland, Japan, Pueto Rico(US), and just travelled to South America, including Peru, Bolivia and Chile.\
 [![Tableau Visualization](/img/tibet.jpeg)](/img/tibet.jpeg)
 [![Tableau Visualization](/img/peru.jpeg)](/img/peru.jpeg)
 
 9.I tried skydiving at Miami Key West, jumped down a plane at the height of 10,000 feet and loved it!
+
 [![Tableau Visualization](/img/skydive1.jpeg)](/img/skydive1.jpeg)
 [![Tableau Visualization](/img/skydive2.jpeg)](/img/skydive2.jpeg)
 
 10.I self-learned oil painting.
+
 [![Tableau Visualization](/img/oilpaint1.png)](/img/oilpaint1.png)
