@@ -24,11 +24,6 @@ permalink: /background/
     <!-- Bio paragraphs -->
     I’m a driven Quantitative Researcher with a double major in Data Science and Finance and in Business and Finance from New York University Shanghai and a Master of Engineering in Operations Research and Information Engineering from Cornell University. With hands-on experience in quantitative research/development/strategy internships, I aim to sharpen my skills through interesting projects. My Master of Engineering deepened this foundation through advanced coursework in Optimization Modeling in Finance, Market Microstructure and Trading, Quantitative Methods of Financial Risk Management, Simulation Modeling and Analysis and Big Data Technologies equipping me to translate theoretical frameworks into scalable data-driven trading systems. My current span is across volatility studies, portfolio optimization, data scientist, trading and quant research/strategies. I am currently looking for internship and full time opportunities!
 
-    <!-- Hashtags -->
-    <p style="margin: 1em 0;">
-      **#career  #leadership  #travel  #shopping  #writing**
-    </p>
-
     <!-- Quick links -->
     <table>
       <tr>
