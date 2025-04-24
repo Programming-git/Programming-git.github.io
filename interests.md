@@ -4,7 +4,7 @@ title: Interests
 permalink: /interests/
 ---
 
-<h1 id="project_overview">15 One-sentence Funfacts about me</h1>
+<h1 id="project_overview">10 One-sentence Funfacts about me</h1>
 1.For 12 years I sang in choir and we won the 8th Peace Chorus Festival’s gold award in Vienna.
 [![Tableau Visualization](/img/chorus1.jpg)](/img/chorus1.jpg)
 [![Tableau Visualization](/img/chorus2.jpg)](/img/chorus2.jpg)
