@@ -10,7 +10,7 @@ permalink: /background/
   <img
     src="/img/Deng.Kexin.ProfilePhoto.jpg"
     alt="Kexin Deng"
-    width="500"
+    width="300"
     style="border-radius: 8px;"
   />
 
@@ -40,9 +40,8 @@ permalink: /background/
     </p>
 
     <!-- Bio paragraphs -->
-    Consultant by day, Urban Adventurer by night. Victoria is an ambitious young New Yorker who enjoys writing her life story as though she’s the protagonist of a novel, observing the world from as many angles as possible, and helping other people achieve their dreams.
+    I’m a driven Quantitative Researcher with a double major in Data Science and Finance and in Business and Finance from New York University Shanghai and a Master of Engineering in Operations Research and Information Engineering from Cornell University. With hands-on experience in quantitative research/development/strategy internships, I aim to sharpen my skills through interesting projects. My Master of Engineering deepened this foundation through advanced coursework in Optimization Modeling in Finance, Market Microstructure and Trading, Quantitative Methods of Financial Risk Management, Simulation Modeling and Analysis and Big Data Technologies equipping me to translate theoretical frameworks into scalable data-driven trading systems. My current span is across volatility studies, portfolio optimization, data scientist, trading and quant research/strategies. My goal is to continue advancing quantitative research in financial markets through cutting-edge data-driven strategies.
 
-    When Victoria isn’t running around Manhattan tasked with several missions in her planner, you might find her at Deloitte Consulting where she is a Business Analyst or around New York University where she is an active alumna. She also runs a career and lifestyle blog: victoriouslyyours.com
 
     <!-- Hashtags -->
     <p style="margin: 1em 0;">
