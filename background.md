@@ -32,12 +32,12 @@ permalink: /background/
     <!-- Quick links -->
     <table>
       <tr>
-        <td><strong>WORK</strong></td>
-        <td>Deloitte Consulting</td>
+        <td><strong>Most Recent Employer</strong></td>
+        <td>Shanghai Luoshu Investment</td>
       </tr>
       <tr>
         <td><strong>EDUCATION</strong></td>
-        <td>New York University</td>
+        <td>Cornell University, New York University</td>
       </tr>
     </table>
 
