@@ -39,7 +39,6 @@ Below are some of our articles.
 
 🔗 [A Conversation with Bai Hailun | ‘Through Others, I Grew’: Two Years in Weishan 对话白海伦｜“遇人，育自己”：我在巍山的两年](https://mp.weixin.qq.com/s/ihKInvK4zG3F-muaceE-3A)
 
-
 🔗 [A Conversation with Tong Shijun: Practicing Education with Philosophical Thinking at NYU Shanghai 对话童世骏：在上纽，以哲学之思践教育之行](https://mp.weixin.qq.com/s/NZPrKpbW4ZPEwJtCK5SklA)
 
 🔗 [A Conversation with Du Cong: Rejecting the Posture of Superiority, a Banker’s Path of Philanthropic Enlightenment 对话杜聪：拒绝上位者姿态，银行家的公益证道之路](https://mp.weixin.qq.com/s/uBZTh8-QZxsK5OT_ClP-Sg)
