@@ -47,7 +47,7 @@ Below are some of our articles.
 
 🔗 [A Conversation with Liu Xuancheng: A ‘Primary School Student’ in the World of Archaeology and Cultural Heritage 对话刘轩成：考古文博界的“小学生”](https://mp.weixin.qq.com/s/koTxkCeL1Lr34RhW5TjIiQ)
 
-8.I travelled since my Undergraduate senior year to Tibet (China), Tiland, Japan, Pueto Rico(US), and just travelled to South America, including Peru, Bolivia and Chile.\
+8.I travelled since my Undergraduate senior year to Tibet (China), Thailand, Japan, Pueto Rico(US), and just travelled to South America, including Peru, Bolivia and Chile.\
 [![Tableau Visualization](/img/tibet.jpeg)](/img/tibet.jpeg)
 [![Tableau Visualization](/img/peru.jpeg)](/img/peru.jpeg)
 
