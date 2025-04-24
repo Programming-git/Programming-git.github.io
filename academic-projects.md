@@ -8,7 +8,7 @@ permalink: /academic-projects/
 
 1. **Modeling and Forecasting Volatility of Stock Index Financial Series and Volatility Spillover Effect in EViews: GARCH Families Approach**
 
-[![Tableau Visualization](/img/volatility.png)](/img/volatility.jpg)
+[![Tableau Visualization](/img/volatility.jpg)](/img/volatility.jpg)
 
    - Funded by: [The Deans' Undergraduate Research Fund (DURF)](https://shanghai.nyu.edu/content/deans-undergraduate-research-fund-durf)
    - Software: Eviews, Python
@@ -18,7 +18,7 @@ permalink: /academic-projects/
 
 2. **The Impact of the COVID-19 Pandemic on Chinese Mutual Funds Investors**
 
-[![Capstine](/img/CapstonePre.png)](/img/CapstonePre.jpg)
+[![Capstine](/img/CapstonePre.jpg)](/img/CapstonePre.jpg)
 
    - Funded by: Computer Science / Data Science Senior Project
    - Supervisor: [Yiqing Lv](https://sites.google.com/site/yiqinglulv/home)
