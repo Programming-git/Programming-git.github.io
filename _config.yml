@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:
   - title: "About Me"
-    url:   "/:title/"
+    url:   "/background/"
   - title: "Resume"
     url:   "/Deng.Kexin.Resume.pdf"
   - title: "Academic Projects"
