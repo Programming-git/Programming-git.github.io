@@ -8,9 +8,9 @@ permalink: /background/
 
   <!-- Left: profile image -->
   <img
-    src="/assets/images/victoria-cana.jpg"
-    alt="Victoria Cana"
-    width="300"
+    src="/assets/images/Deng.Kexin.ProfilePhoto.jpg"
+    alt="Kexin Deng"
+    width="500"
     style="border-radius: 8px;"
   />
 
@@ -18,8 +18,8 @@ permalink: /background/
   <div style="margin-left: 20px; max-width: 600px;">
 
     <!-- Name & subtitle -->
-    ## VICTORIA CANA  
-    _Consultant, Blogger, and Public Speaker in New York_
+    ## Kexin Deng
+    Student at Cornell Financial Engineering Class of 2025
 
     <!-- Call-to-action button -->
     <p>
