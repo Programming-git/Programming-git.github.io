@@ -33,7 +33,7 @@ Below are some of our articles.
 
 🔗 [Fireside Conversations: From Ethnic Origins to the Realm of Anthropology 围炉夜话：从民族出发，到人类学里去](https://mp.weixin.qq.com/s/TSkmUR9fSNa1-gWUfQC0Lw)
 
-🔗 [A Conversation with A-Guang: There Will Always Be a Gentle Light That Falls Upon You 对话阿光：总有一束温柔的光会落在你的头上](https://mp.weixin.qq.com/s/dt-fzvz1dZf9IjJuNjEKqw))
+🔗 [A Conversation with A-Guang: There Will Always Be a Gentle Light That Falls Upon You 对话阿光：总有一束温柔的光会落在你的头上](https://mp.weixin.qq.com/s/dt-fzvz1dZf9IjJuNjEKqw)
 
 🔗 [Talking with a Mangxing River Reserve Ranger: A Special Connection with the Phayre’s Leaf Monkey 对话芒杏河保护地护林员：菲氏叶猴之缘](https://mp.weixin.qq.com/s/p64wtnz1N00JjMheC15ZVA)
 
