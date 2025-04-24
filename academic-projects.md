@@ -27,8 +27,8 @@ permalink: /academic-projects/
 [![Capstine](/img/keyfindings1.png)](/img/keyfindings1.jpg)
 [![Capstine](/img/keyfindings2.png)](/img/keyfindings2.jpg)
 [![Capstine](/img/keyfindings3.png)](/img/keyfindings3.jpg)
-- **Presentation slides:** [Presentation slides](/_posts/DS_Impact-of-COVID-19-on-Chinese-Mutual-Funds-Investors.pptx)
-- **Capstone Thesis:** [Capstone Thesis](/_posts/DS_Impact-of-COVID-19-on-Chinese-Mutual-Funds-Investors.pdf)
+- **Presentation slides:** [_posts/DS_Impact-of-COVID-19-on-Chinese-Mutual-Funds-Investors.pptx](/_posts/DS_Impact-of-COVID-19-on-Chinese-Mutual-Funds-Investors.pptx)
+- **Capstone Thesis:** [/_posts/DS_Impact-of-COVID-19-on-Chinese-Mutual-Funds-Investors.pdf](/_posts/DS_Impact-of-COVID-19-on-Chinese-Mutual-Funds-Investors.pdf)
 
 <h1 id="project_overview">Quant Projects</h1>
 
