@@ -14,7 +14,7 @@ permalink: /interests/
 [![Tableau Visualization](/img/graduate2.jpeg)](/img/graduate2.jpeg)
 
 4.I love Broadway musicals; out of 13 musicals I watched in my year at NYU, my favorite was Hadestown.
-[![Tableau Visualization](/img/graduate1.jpeg)](/img/graduate1.jpeg)
+[![Tableau Visualization](/img/hadestown.jpg)](/img/hadestown.jpg)
 
 5.I met and dined with 2003 Nobel Laureate Professor Robert Engle as one of 8 student representatives.
 [![Tableau Visualization](/img/Engle1.jpeg)](/img/Engle1.jpeg)
