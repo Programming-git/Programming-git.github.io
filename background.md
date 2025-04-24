@@ -8,7 +8,7 @@ permalink: /background/
 
   <!-- Left: profile image -->
   <img
-    src="/assets/images/Deng.Kexin.ProfilePhoto.jpg"
+    src="/img/Deng.Kexin.ProfilePhoto.jpg"
     alt="Kexin Deng"
     width="500"
     style="border-radius: 8px;"
