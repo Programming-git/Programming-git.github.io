@@ -37,7 +37,7 @@ Below are some of our articles.
 
 🔗 [Talking with a Mangxing River Reserve Ranger: A Special Connection with the Phayre’s Leaf Monkey 对话芒杏河保护地护林员：菲氏叶猴之缘](https://mp.weixin.qq.com/s/p64wtnz1N00JjMheC15ZVA)
 
-🔗 [A Conversation with Bai Hailun | ‘Through Others, I Grew’: Two Years in Weishan 对话白海伦｜“遇人，育自己”：我在巍山的两年](https://mp.weixin.qq.com/s/ihKInvK4zG3F-muaceE-3A)
+🔗 [A Conversation with Bai Hailun: Through Others, I Grew, Two Years in Weishan 对话白海伦｜“遇人，育自己”：我在巍山的两年](https://mp.weixin.qq.com/s/ihKInvK4zG3F-muaceE-3A)
 
 🔗 [A Conversation with Tong Shijun: Practicing Education with Philosophical Thinking at NYU Shanghai 对话童世骏：在上纽，以哲学之思践教育之行](https://mp.weixin.qq.com/s/NZPrKpbW4ZPEwJtCK5SklA)
 
