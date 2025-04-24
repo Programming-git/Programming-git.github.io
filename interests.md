@@ -30,7 +30,7 @@ You can read one of my published pieces here:
 
 7.I once served as the president of NYU Shanghai Flame, a group fostering the free exchange of ideas among top university students in mainland China, Hong Kong and overseas. I led interviews with individuals such as individuals like Ye Huang, a champion of wild animal protection and advocate against female circumcision in Africa, and Cong Du, a Harvard-educated Wall Street banker who founded the Chi Heng Foundation, aiding children orphaned by AIDS.
 Below are some of our articles.
-
+🔗 [Fireside Conversations: From Ethnic Origins to the Realm of Anthropology 围炉夜话：从民族出发，到人类学里去](https://mp.weixin.qq.com/s/TSkmUR9fSNa1-gWUfQC0Lw)
 
 
 8.I travelled since my Undergraduate senior year to Tibet (China), Tiland, Japan, Pueto Rico(US), and just travelled to South America, including Peru, Bolivia and Chile.\
