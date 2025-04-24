@@ -22,28 +22,24 @@ permalink: /interests/
 
 5.My essay on Soviet Union science fiction and utopianism was chosen for the Hundred Rivers Review.
 [![Tableau Visualization](/img/hundredriver.png)](/img/hundredriver.png)
+You can read one of my published pieces here:
+🔗 [Victor Saparins’s The Trial of Tantalus: A Utopian Depiction of the Khrushchev Thaw Period](https://www.hundredriver.org/victor-saparins-the-trial-of-tantalus-a-utopian-depiction-of-the-khrushchev-thaw-period/)
 
 6.I was NYUSH orientation ambassador and helped incoming freshmen live the most out of their lives.
 [![Tableau Visualization](/img/orientation.jpeg)](/img/orientation.jpeg)
 
-7.I interviewed Chi Heng Foundation founder Chung To, a Wall Street banker who now aids AIDS orphans.
+7.I once served as the president of NYU Shanghai Flame, a group fostering the free exchange of ideas among top university students in mainland China, Hong Kong and overseas. I led interviews with individuals such as individuals like Ye Huang, a champion of wild animal protection and advocate against female circumcision in Africa, and Cong Du, a Harvard-educated Wall Street banker who founded the Chi Heng Foundation, aiding children orphaned by AIDS.
+Below are some of our articles.
 
-8.As NYUSH senator at NYU student senators council, my name was there in electing NYU President.
 
-9.I travelled since my Undergraduate senior year to Tibet (China), Tiland, Japan, Pueto Rico(US), and just travelled to South America, including Peru, Bolivia and Chile.
+
+8.I travelled since my Undergraduate senior year to Tibet (China), Tiland, Japan, Pueto Rico(US), and just travelled to South America, including Peru, Bolivia and Chile.
 [![Tableau Visualization](/img/tibet.jpeg)](/img/tibet.jpeg)
-[![Tableau Visualization](/img/pueto.jpeg)](/img/pueto.jpeg)
 [![Tableau Visualization](/img/peru.jpeg)](/img/peru.jpeg)
 
-10.I tried skydiving at Miami Key West, jumped down a plane at the height of 10,000 feet and loved it!
+9.I tried skydiving at Miami Key West, jumped down a plane at the height of 10,000 feet and loved it!
 [![Tableau Visualization](/img/skydive1.jpeg)](/img/skydive1.jpeg)
 [![Tableau Visualization](/img/skydive2.jpeg)](/img/skydive2.jpeg)
 
-11.I love jellycats and my favourite ones so far are these two babies with my blue sky dragon.
-
-
-12.I self-learned oil painting.
+10.I self-learned oil painting.
 [![Tableau Visualization](/img/oilpaint1.png)](/img/oilpaint1.png)
-
-13.These are my parrots.
-[![Tableau Visualization](/img/parrots.png)](/img/parrots.png)
