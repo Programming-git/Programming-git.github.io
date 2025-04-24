@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:
+  - title: "About Me"
+    url:   "/:title/"
   - title: "Resume"
     url:   "/Deng.Kexin.Resume.pdf"
-  - title: "About Me"
-    url:   "/about/"
   - title: "Academic Projects"
     url:   "/academic-projects/"
   - title: "Interests"
