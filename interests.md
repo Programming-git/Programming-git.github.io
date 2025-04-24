@@ -10,36 +10,36 @@ permalink: /interests/
 [![Tableau Visualization](/img/chorus2.jpg)](/img/chorus2.jpg)
 
 2.I am proud to be a graduate of NYU Shanghai, China’s first Sino-US research university and the third degree-granting campus of the NYU Global Network.
-[![Tableau Visualization](/img/graduate1.jepg)](/img/graduate1.jepg)
-[![Tableau Visualization](/img/graduate2.jepg)](/img/graduate2.jepg)
+[![Tableau Visualization](/img/graduate1.jpeg)](/img/graduate1.jpeg)
+[![Tableau Visualization](/img/graduate2.jpeg)](/img/graduate2.jpeg)
 
 4.I love Broadway musicals; out of 13 musicals I watched in my year at NYU, my favorite was Hadestown.
-[![Tableau Visualization](/img/graduate1.jepg)](/img/graduate1.jepg)
+[![Tableau Visualization](/img/graduate1.jpeg)](/img/graduate1.jpeg)
 
 5.I met and dined with 2003 Nobel Laureate Professor Robert Engle as one of 8 student representatives.
-[![Tableau Visualization](/img/Engle1.jepg)](/img/Engle1.jepg)
-[![Tableau Visualization](/img/Engle2.jepg)](/img/Engle2.jepg)
+[![Tableau Visualization](/img/Engle1.jpeg)](/img/Engle1.jpeg)
+[![Tableau Visualization](/img/Engle2.jpeg)](/img/Engle2.jpeg)
 
 6.My essay on Soviet Union science fiction and utopianism was chosen for the Hundred Rivers Review.
 
 
 7.I was NYUSH orientation ambassador and helped incoming freshmen live the most out of their lives.
-[![Tableau Visualization](/img/orientation.jepg)](/img/orientation.jepg)
+[![Tableau Visualization](/img/orientation.jpeg)](/img/orientation.jpeg)
 
 8.I interviewed Chi Heng Foundation founder Chung To, a Wall Street banker who now aids AIDS orphans.
 
 9.As NYUSH senator at NYU student senators council, my name was there in electing NYU President.
 
 10.I travelled since my Undergraduate senior year to Tibet (China), Tiland, Japan, Pueto Rico(US), and just travelled to South America, including Peru, Bolivia and Chile.
-[![Tableau Visualization](/img/tibet.jepg)](/img/tibet.jepg)
-[![Tableau Visualization](/img/pueto.jepg)](/img/pueto.jepg)
-[![Tableau Visualization](/img/peru.jepg)](/img/peru.jepg)
+[![Tableau Visualization](/img/tibet.jpeg)](/img/tibet.jpeg)
+[![Tableau Visualization](/img/pueto.jpeg)](/img/pueto.jpeg)
+[![Tableau Visualization](/img/peru.jpeg)](/img/peru.jpeg)
 
 11.I am a survivor of the two month Shanghai lockdown that inspired me to bring pandemic into research.  (100)
 
 12.I tried skydiving at Miami Key West, jumped down a plane at the height of 10,000 feet and loved it! (99)
-[![Tableau Visualization](/img/skydive1.jepg)](/img/skydive1.jepg)
-[![Tableau Visualization](/img/skydive2.jepg)](/img/skydive2.jepg)
+[![Tableau Visualization](/img/skydive1.jpeg)](/img/skydive1.jpeg)
+[![Tableau Visualization](/img/skydive2.jpeg)](/img/skydive2.jpeg)
 
 13.I once did wild monkey protection in deep mountains and together our team planted 160 carmine trees. (100)
 14.
