@@ -39,7 +39,6 @@ Below are some of our articles.
 9.I tried skydiving at Miami Key West, jumped down a plane at the height of 10,000 feet and loved it!
 
 [![Tableau Visualization](/img/skydive1.jpeg)](/img/skydive1.jpeg)
-[![Tableau Visualization](/img/skydive2.jpeg)](/img/skydive2.jpeg)
 
 10.I self-learned oil painting.
 
