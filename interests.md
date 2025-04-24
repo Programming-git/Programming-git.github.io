@@ -10,6 +10,7 @@ permalink: /interests/
 [![Tableau Visualization](/img/chorus2.jpg)](/img/chorus2.jpg)
 
 2.I am proud to be a graduate of NYU Shanghai, China’s first Sino-US research university and the third degree-granting campus of the NYU Global Network.
+
 [![Tableau Visualization](/img/graduate2.JPG)](/img/graduate2.JPG)
 
 3.I love Broadway musicals; out of 13 musicals I watched in my year at NYU, my favorite was Hadestown.
